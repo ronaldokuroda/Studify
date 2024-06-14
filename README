@@ -1,0 +1,11 @@
+Um bot para discord orientado pela de Rafaella Balerini em: https://www.youtube.com/watch?v=zKOf1NGGStE
+
+Este bot possui 4 interações/comandos para o discord: 
+
+1. Possui comando pin onde ele responde com pong.
+2. Bot entrega uma embed com os comandos do github.
+3. comando playlist onde ele enviar um link do spotify de playlist.
+4. Possui comando docs onde ele entrega um selecionador para deficir qual doc deseja e ele responde com link da documentacao da linguagem desejada.
+
+
+Este bot foi realizado por mim conforme a orientação da Rafaella Balerini, onde tive algumas dificuldades no inicio por pequenos erros meus como uma simles letra, e utilizei a inteligencia artificial para me ajudar a localizar meu erro. Este projeto apesar de ser por youtube, obtive uma pequena dificuldade também em acompanhar algumas partes por conta do video ser feito em uma tela menor, a qual precisei pausar e repassar varias vezes para obter um entendimento aprimorado.
